@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/jyalkho">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile..&hearts;++;Front-End+Developer,;IT+Student+at+Kuben+Videregående+Skole,;Passionate+Learner/Developer,;Love+to+Build+and+Create..<3">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile..;++;Front-End+Developer,;IT+Student+at+Kuben+Videregående+Skole,;Passionate+Learner/Developer,;Love+to+Build+and+Create..<3">
   </a>
 </p>
 
