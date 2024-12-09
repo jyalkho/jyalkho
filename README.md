@@ -29,7 +29,8 @@
 
 - **Languages**:
     
-    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![HTML](https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 <br>
@@ -51,6 +52,7 @@
     ![Adobe Acrobat](https://img.shields.io/badge/Adobe%20Acrobat-%23E60012.svg?style=for-the-badge&logo=adobe-acrobat&logoColor=white)
     ![After Effects](https://img.shields.io/badge/After%20Effects-%234B8BBE.svg?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
     ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobe-xd&logoColor=white)
+    ![ChatGPT](https://img.shields.io/badge/ChatGPT-%2300FF00.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 <br>
 
