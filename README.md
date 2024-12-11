@@ -16,7 +16,7 @@
 
 - Currently studying at **Kuben Videregående Skole**.
 - Currently learning **Web Development**, **Hyper-V Management**, **Wi-Fi Installation and Troubleshooting**, **Networking (e.g., Pinging Networks)**, **MySQL Database Management**.
-- I enjoy **weight lifting** and **wrestling**.
+- I enjoy 🎮, 🏋, 🤼
 
 <br><br>
 
