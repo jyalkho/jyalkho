@@ -8,7 +8,9 @@
 
 <br>
 
-## <picture><img src="https://github.com/jyalkho/jyalkho/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About Me**
+## <picture> 
+<img src="https://github.com/jyalkho/jyalkho/raw/main/assets/mdImages/about_me.gif" width="50px">
+</picture> **About Me**
 
 <picture> 
   <img align="right" src="https://github.com/jyalkho/jyalkho/raw/main/assets/mdImages/Right_Side.gif" width="250px">
