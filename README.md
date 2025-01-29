@@ -12,9 +12,6 @@
 <img src="https://github.com/jyalkho/jyalkho/raw/main/assets/mdImages/about_me.gif" width="50px">
 </picture> **About Me**
 
-<picture> 
-  <img align="right" src="https://github.com/jyalkho/jyalkho/raw/main/assets/mdImages/Right_Side.gif" width="250px">
-</picture>
 
 - Currently studying at **Kuben Videregående Skole**.
 - Currently learning **Web Development**, **Hyper-V Management**, **Wi-Fi Installation and Troubleshooting**, **Networking (e.g., Pinging Networks)**, **MySQL Database Management**.
