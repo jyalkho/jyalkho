@@ -10,7 +10,9 @@
 
 ## <picture> 
 <img src="https://github.com/jyalkho/jyalkho/raw/main/assets/mdImages/about_me.gif" width="50px">
-</picture> **About Me**
+</picture> 
+
+**About Me**
 
 
 - Currently studying at **Kuben Videregående Skole**.
